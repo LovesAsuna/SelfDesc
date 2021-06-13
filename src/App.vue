@@ -1,7 +1,19 @@
 <template>
   <div id="container">
     <Header></Header>
-    <Me></Me>
+    <Me>
+      <p>
+        也可以叫我冰星
+      </p>
+      <p>
+        一个热爱后端的业余开发者<br/>
+        喜欢看一些有意思的项目，也会开发一些实用性的东西
+      </p>
+      <p>
+        目前只掌握了Java和Kotlin<small>前端略懂一二</small><br/>
+        <small>前端真的是人学的吗？</small>
+      </p>
+    </Me>
     <Game></Game>
     <Host></Host>
     <CopyRight></CopyRight>
