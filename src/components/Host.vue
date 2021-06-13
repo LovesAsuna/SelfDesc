@@ -1,6 +1,6 @@
 <template>
   <div class="section footer">
-    <a class="hosting" href="https://github.com/amphineko/amphineko">
+    <a class="hosting" href="https://github.com/LovesAsuna/SelfDesc">
       <i aria-hidden="true" class="fas fa-code-branch"></i> Fork this template on GitHub</a>
   </div>
 </template>
