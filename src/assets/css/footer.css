@@ -1,0 +1,24 @@
+#container .footer.fab, .footer .fas, .footer .far {
+    text-align: center;
+    width: 1.25em;
+}
+
+#container .copyright {
+    color: white;
+    font-size: 0.9em;
+    line-height: 2em;
+    padding: 0.5em 1em;
+}
+
+#container .hosting {
+    color: white;
+    font-size: 0.9em;
+    font-weight: normal;
+    display: block;
+    padding: 0.75em 1em;
+    text-decoration: none;
+}
+
+#container .hosting .link {
+    color: #acd;
+}
