@@ -93,6 +93,7 @@ export default {
 <style scoped src="../assets/css/intro.css"></style>
 <style scoped src="../assets/css/identities.css"></style>
 <style scoped src="../assets/css/labels.css"></style>
+<style scoped src="../assets/css/links.css"></style>
 <style scoped src="unsemantic/assets/stylesheets/unsemantic-grid-responsive.css"></style>
 <style scoped src="@fortawesome/fontawesome-free/css/fontawesome.css"></style>
 <style scoped src="@fortawesome/fontawesome-free/css/brands.css"></style>

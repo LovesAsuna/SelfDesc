@@ -49,6 +49,11 @@
     font-size: 1.1em;
     text-align: center;
     width: 1.5em;
+    padding-right: 5px;
+}
+
+#container .intro .label-group .label i {
+    padding-right: 5px;
 }
 
 #container figure.identities ul li a .fake-link {

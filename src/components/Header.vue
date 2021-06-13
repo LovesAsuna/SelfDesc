@@ -58,7 +58,7 @@
         <span class="label">
                         <i aria-hidden="true" class="fab fa-windows"></i>
                         Win10
-                    </span>
+                    </span>&nbsp;
         <span class="label">
                         <i aria-hidden="true" class="fab fa-centos"></i>
                         Centos7
