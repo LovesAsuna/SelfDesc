@@ -10,8 +10,8 @@
         喜欢看一些有意思的项目，也会开发一些实用性的东西
       </p>
       <p>
-        目前只掌握了Java和Kotlin<small>前端略懂一二</small><br/>
-        <small>前端真的是人学的吗？</small>
+        目前掌握了Java、Kotlin、PHP和Go<small>前端略懂一二</small><br/>
+        <small>前端学着海星(起码现在你看的是我用Vue重写过的)</small>
       </p>
     </Me>
     <Game></Game>
