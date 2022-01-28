@@ -57,7 +57,7 @@
         <span class="header">platforms</span>
         <span class="label">
                         <i aria-hidden="true" class="fab fa-windows"></i>
-                        Win10
+                        Win11
                     </span>&nbsp;
         <span class="label">
                         <i aria-hidden="true" class="fab fa-centos"></i>
