@@ -2,7 +2,7 @@
   <div class="section footer shadow">
     <div class="copyright">
       <i aria-hidden="true" class="fas fa-exclamation-triangle"></i>
-      Copyright © 2015-2021 LovesAsuna. Illustrations have their own licenses.
+      Copyright © 2015-2022 LovesAsuna. Illustrations have their own licenses.
     </div>
   </div>
 </template>
