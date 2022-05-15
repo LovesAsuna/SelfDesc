@@ -28,7 +28,7 @@
         <div class="label-group">
           <span class="header alt"><i aria-hidden="true" class="fas fa-tag"></i>fps</span>
 
-          <span class="label">Insurgency: Sandstorm</span>
+          <span class="label">Apex Legends</span>
           <span class="label">Rainbow Six Siege</span>
         </div>
 
