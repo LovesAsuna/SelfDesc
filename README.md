@@ -1,24 +1,8 @@
-# selfdesc
+# 个人介绍
+嵌入博客的个人介绍页面
 
-## Project setup
-```
-npm install
-```
+---
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+修改自https://github.com/amphineko/amphineko
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+采用Vue进行重写限定css作用域
